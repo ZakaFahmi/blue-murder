@@ -1,7 +1,7 @@
 # blue-murder
 template web blue murder Keterangan menyusul..
-template ini menggunakan blogrid sebagai tema 
-dan disini juga suda menggunakan plugin tambahan 
+template ini menggunakan blogrid sebagai tema .
+dan disini juga suda menggunakan plugin tambahan .
 
 # cara-pengistalan
 
