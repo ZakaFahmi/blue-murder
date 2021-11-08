@@ -2,6 +2,7 @@
 template web blue murder Keterangan menyusul..
 template ini menggunakan blogrid sebagai tema .
 dan disini juga suda menggunakan plugin tambahan .
+template ini front end  untuk tampilan  wordpress.
 
 # cara-pengistalan
 
