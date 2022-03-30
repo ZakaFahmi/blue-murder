@@ -7,7 +7,8 @@
  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHK61hjmhnbGiVzrt5c4Vzw?style=social)
   
 </div>
-## social media 
+
+## social-media 
 
 template web blue murder Keterangan menyusul..
 template ini menggunakan blogrid sebagai tema .
