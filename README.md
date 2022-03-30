@@ -1,6 +1,5 @@
 # blue-murder
 
-# social media 
 <div align="center">
 
  ![Twitter Follow](https://img.shields.io/twitter/follow/19_027?style=social)
@@ -8,6 +7,7 @@
  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHK61hjmhnbGiVzrt5c4Vzw?style=social)
   
 </div>
+## social media 
 
 template web blue murder Keterangan menyusul..
 template ini menggunakan blogrid sebagai tema .
