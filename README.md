@@ -1,4 +1,14 @@
 # blue-murder
+
+# social media 
+<div align="center">
+
+ ![Twitter Follow](https://img.shields.io/twitter/follow/19_027?style=social)
+ ![GitHub followers](https://img.shields.io/github/followers/ZakaFahmi?style=social)
+ ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHK61hjmhnbGiVzrt5c4Vzw?style=social)
+  
+</div>
+
 template web blue murder Keterangan menyusul..
 template ini menggunakan blogrid sebagai tema .
 dan disini juga suda menggunakan plugin tambahan .
